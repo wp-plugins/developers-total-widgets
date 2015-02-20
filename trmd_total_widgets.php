@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Developers_Total_Widgets
+ * Plugin Name: Developers Total Widgets
  * Plugin URI: http://nakshighor.com/
  * Description: This is the best plugin forever for Developers.Developers are able to use any kind of widgets by using this plugin. Developers are always work hard for creating custom widgets for their own sites. But,after publishing this plugin nor more work hard. Just enjoy and create widgets easily. So, more and more.
  * Version:  1.0
