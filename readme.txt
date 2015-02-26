@@ -1,5 +1,5 @@
 === Developers Total Widgets ===
-Contributors: ThemeRoad
+Contributors: BestThemeRoad
 Author URI: https://profiles.wordpress.org/bestthemeroad
 Author: Theme Road
 Donate link: 
