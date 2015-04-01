@@ -15,6 +15,8 @@ The best widgets plugins for creating any kind of custom widgets.[Only-for-Devel
 
 == Description ==
 
+ ### Developers Total Widgets  by http://themeroad.net
+
 This is the best plugin forever for Developers.Developers are able to use any kind of widgets by using this plugin. Developers are always work hard for creating custom widgets for their own sites. But,after publishing this plugin nor more work hard. Just enjoy and create widgets easily. So, more and more.
 
 Plugin Features !!!!!
